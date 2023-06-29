@@ -19,6 +19,8 @@ The project follows the following steps:
 
 **Web Application Development:** The serialized model is imported into a web application framework, such as Streamlit. The framework is used to build a user-friendly interface where users can input text messages/emails to be classified as spam or not spam.
 
+The link to kaggle dataset: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
 The website looks like this:
 ![1](https://github.com/PriyankaBhatta/SMS-spam-classifier/assets/109200742/e622ea52-0fae-4bed-aba7-2fcefc333653)
 ![2](https://github.com/PriyankaBhatta/SMS-spam-classifier/assets/109200742/4056a964-f829-413e-8741-a097c149482b)
